@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Enrique Villarreal Piñol, and I am a sysadmin from Santa Coloma de Gramenet, Spain. I'm mostly interested in databases and data analysis. However, I probably will write about whatever crosses my head.
 
-### More Information
+Some quick facts about me:
 
-A place to include any other types of information that you'd like to include about yourself.
+  * I like combat sports, mostly BJJ (which I practice), and MMA.
+  * I'm a fountain pen user. At the moment my favorite is the Franklin Christoph Model 31.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evillarreal@elpuig.xeill.net](mailto:evillarreal@elpuig.xeill.net)
+
